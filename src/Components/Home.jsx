@@ -13,16 +13,16 @@ import PropTypes from "prop-types";
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/my-profile-at-homepage.jpg";
 
-const imageAltText = "Adult female in office setting leaning against a white wall";
+const imageAltText = "Adult male in office setting leaning against a white wall";
 
 function Home({ name, title }) {
   return (
