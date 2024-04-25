@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/Home-profile.jpg";
+import image from "../images/woman-with-tablet.jpg";
 
-const imageAltText = "Adult male in office setting leaning against a white wall";
+const imageAltText = "Adult female in office setting leaning against a white wall";
 
 function Home({ name, title }) {
   return (
