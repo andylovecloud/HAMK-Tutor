@@ -43,9 +43,9 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "My LinkedIn Profile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and IT abilities.",
+      "Includes my experience, certified certificates, badges and IT abilities",
     url: "https://www.linkedin.com/in/anduytranhuynh/",
   },
   {
