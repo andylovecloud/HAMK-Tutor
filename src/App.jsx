@@ -29,7 +29,7 @@ const siteProps = {
   email: "andy.tranhuynh@gmail.com",
   gitHub: "andylovecloud",
   instagram: "",
-  linkedIn: "andy.io.vn",
+  linkedIn: "www.andy.io.vn",
   medium: "",
   youTube: "",
 };
