@@ -44,7 +44,8 @@ const projectList = [
   },
   {
     title: "My LinkedIn Profile",
-    description: "Includes my experience, certified certificates, badges and IT abilities.",
+    description:
+      "Includes my experience, certified certificates, badges and IT abilities.",
     url: "https://www.linkedin.com/in/anduytranhuynh/",
   },
   {
