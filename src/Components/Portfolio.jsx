@@ -8,7 +8,7 @@
  * as you continue to learn and create.
  */
 
-import React from "react";
+import React from "react"; 
 
 /**
  * Desk image
